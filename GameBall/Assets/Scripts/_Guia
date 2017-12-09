@@ -1,0 +1,31 @@
+﻿1. La carpeta _Sceneste la _ per que quedi primera
+
+2.Crear la escena "Game"
+
+3.Canviar nom a GND
+
+4.Fer el reset èrqie quedi ne
+
+Crear la bola 
+
+Tab+F aper centrar lobjecte
+
+Creem la carpeta materials i pintem el background
+
+Adefim u rigidbody a la bola per posarli fisiques
+
+Creem el component des de me perque aixi afegeix les llivreries automaticament pero despres s'ha de moure larxiu a scrips manualment
+
+Al script, posem el rigidbody en privat perque aixi no ens surt a leditor
+
+Per canviar el editor de text (Edit > Preferences > External Tools)
+
+Els comentaris pel script de player estan alli
+
+Canviem la visio de la camaraç
+
+Creem un script per la camera (Passos a lscri`t)
+
+Creem la careta prefabs que ens servira per posar co un representant de casa objecte, una copia de seguretat, aixi, canviem a aqiest i afecta a tots
+
+Canviem el local / flobal per canviar la direccio a la que van els eixos de lobjecte que estem editant

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9f18fc92ad2d3634e95dfe761cddfb49
+timeCreated: 1499023918
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Senza cuore
+  fontNames:
+  - Senza cuore
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
